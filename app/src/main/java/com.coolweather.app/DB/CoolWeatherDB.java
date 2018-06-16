@@ -49,8 +49,9 @@ public class CoolWeatherDB {
             if(cursor!=null){
                 cursor.close();
             }
-            return list;
+
         }
+        return list;
     }
 
     public void saveCity(City city){
