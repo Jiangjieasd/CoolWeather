@@ -1,3 +1,3 @@
 # CoolWeather
 
-简单的天气查询App
+天气查询练手App
